@@ -7,7 +7,6 @@ gunicorn==19.9.0
 jinja2==2.10.1
 matplotlib>=1.4.3
 chatterbot==1.0.2
-nltk==3.5
 PyYAML<4.0,>=3.12
 python-dateutil<2.8,>=2.7
 chatterbot-corpus==1.2.0
